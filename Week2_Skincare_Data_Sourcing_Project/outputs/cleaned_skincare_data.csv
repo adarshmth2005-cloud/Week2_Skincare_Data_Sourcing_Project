@@ -1,0 +1,21 @@
+product_name,skin_type,skin_concern,price_inr,rating,is_recommended,ingredients,product_description
+Hydrating Gel Cream,Oily,Acne,499.0,4.2,1.0,"Niacinamide, Glycerin",Lightweight hydration for oily skin
+Barrier Repair Moisturizer,Dry,Dryness,899.0,4.6,1.0,"Ceramides, Hyaluronic Acid",Barrier-support moisturizer
+Gentle Foaming Cleanser,Combination,Acne,399.0,4.0,1.0,"Glycerin, Salicylic Acid",Daily gentle cleanser
+Vitamin C Serum,Normal,Dullness,1099.0,4.4,1.0,"Vitamin C, Ferulic Acid",Brightening serum
+Calming Face Wash,Sensitive,Redness,599.0,4.5,1.0,"Oat Extract, Panthenol",Mild cleanser for sensitive skin
+Oil Control Sunscreen,Oily,Sun Protection,749.0,3.8,0.0,"Zinc Oxide, Niacinamide",Matte finish sunscreen
+Rich Night Cream,Dry,Dryness,1250.0,4.3,1.0,"Shea Butter, Ceramides",Night moisturizer
+Daily Hydration Lotion,Normal,Dryness,699.0,4.1,1.0,"Glycerin, Squalane",Daily lightweight lotion
+Pore Care Serum,Oily,Acne,799.0,3.7,0.0,"Salicylic Acid, Zinc",Targeted pore-care serum
+Soothing Moisturizer,Sensitive,Redness,899.0,4.4,1.0,"Centella, Panthenol",Soothing daily moisturizer
+Glow Boost Serum,Combination,Dullness,999.0,4.2,1.0,"Vitamin C, Hyaluronic Acid",Hydration and glow serum
+Repair Face Cream,Dry,Barrier Repair,950.0,4.2,1.0,"Ceramides, Squalane",Barrier care cream
+Daily SPF Lotion,Normal,Sun Protection,649.0,4.4,1.0,"Zinc Oxide, Aloe Vera",Daily sunscreen lotion
+Clarifying Cleanser,Oily,Acne,549.0,3.9,0.0,"Salicylic Acid, Green Tea",Clarifying facial cleanser
+Ultra Gentle Cleanser,Sensitive,Redness,599.0,4.3,1.0,"Oat Extract, Glycerin",Fragrance-free style cleanser
+Hydra Boost Cream,Combination,Dryness,799.0,3.9,1.0,"Hyaluronic Acid, Glycerin",Hydrating face cream
+Overnight Repair Balm,Dry,Barrier Repair,1199.0,4.4,1.0,"Ceramides, Shea Butter",Rich overnight balm
+Balancing Toner,Oily,Pores,699.0,3.8,0.0,"Niacinamide, Green Tea",Balancing toner
+Daily Comfort Cream,Sensitive,Dryness,849.0,4.2,1.0,"Panthenol, Squalane",Comfort moisturizer
+Even Tone Serum,Combination,Dullness,899.0,4.0,1.0,"Niacinamide, Vitamin C",Tone-evening serum

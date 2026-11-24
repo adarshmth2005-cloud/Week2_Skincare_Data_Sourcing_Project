@@ -1,0 +1,21 @@
+product_name,skin_type,skin_concern,price_inr,rating,is_recommended,ingredients,product_description
+Hydrating Gel Cream,Oily,Acne,499,4.2,1,"Niacinamide, Glycerin",Lightweight hydration for oily skin
+Barrier Repair Moisturizer,Dry,Dryness,899,4.6,1,"Ceramides, Hyaluronic Acid",Barrier-support moisturizer
+Gentle Foaming Cleanser,Combination,Acne,399,4.0,1,"Glycerin, Salicylic Acid",Daily gentle cleanser
+Vitamin C Serum,Normal,Dullness,1099,4.4,1,"Vitamin C, Ferulic Acid",Brightening serum
+Calming Face Wash,Sensitive,Redness,599,4.5,1,"Oat Extract, Panthenol",Mild cleanser for sensitive skin
+Oil Control Sunscreen,Oily,Sun Protection,749,3.8,0,"Zinc Oxide, Niacinamide",Matte finish sunscreen
+Rich Night Cream,Dry,Dryness,1250,4.3,1,"Shea Butter, Ceramides",Night moisturizer
+Daily Hydration Lotion,Normal,Dryness,699,4.1,1,"Glycerin, Squalane",Daily lightweight lotion
+Pore Care Serum,Oily,Acne,799,3.7,0,"Salicylic Acid, Zinc",Targeted pore-care serum
+Soothing Moisturizer,Sensitive,Redness,899,4.4,1,"Centella, Panthenol",Soothing daily moisturizer
+Glow Boost Serum,Combination,Dullness,999,4.2,1,"Vitamin C, Hyaluronic Acid",Hydration and glow serum
+Repair Face Cream,Dry,Barrier Repair,950,4.2,1,"Ceramides, Squalane",Barrier care cream
+Daily SPF Lotion,Normal,Sun Protection,649,4.4,1,"Zinc Oxide, Aloe Vera",Daily sunscreen lotion
+Clarifying Cleanser,Oily,Acne,549,3.9,0,"Salicylic Acid, Green Tea",Clarifying facial cleanser
+Ultra Gentle Cleanser,Sensitive,Redness,599,4.3,1,"Oat Extract, Glycerin",Fragrance-free style cleanser
+Hydra Boost Cream,Combination,Dryness,799,3.9,1,"Hyaluronic Acid, Glycerin",Hydrating face cream
+Overnight Repair Balm,Dry,Barrier Repair,1199,4.4,1,"Ceramides, Shea Butter",Rich overnight balm
+Balancing Toner,Oily,Pores,699,3.8,0,"Niacinamide, Green Tea",Balancing toner
+Daily Comfort Cream,Sensitive,Dryness,849,4.2,1,"Panthenol, Squalane",Comfort moisturizer
+Even Tone Serum,Combination,Dullness,899,4.0,1,"Niacinamide, Vitamin C",Tone-evening serum

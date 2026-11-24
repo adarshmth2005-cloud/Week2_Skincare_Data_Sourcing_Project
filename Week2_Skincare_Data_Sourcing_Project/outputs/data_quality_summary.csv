@@ -1,0 +1,7 @@
+metric,value
+source_rows,20
+source_columns,8
+duplicate_rows,0
+cleaned_rows,20
+removed_rows,0
+missing_cells_after_cleaning,0

@@ -1,0 +1,10 @@
+{
+    "records_analyzed": 20,
+    "unique_products": 20,
+    "skin_type_categories": 5,
+    "skin_concern_categories": 7,
+    "average_rating": 4.17,
+    "median_rating": 4.2,
+    "average_price_inr": 804.1,
+    "recommendation_rate_percent": 80.0
+}
